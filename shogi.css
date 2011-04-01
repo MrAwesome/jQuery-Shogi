@@ -1,0 +1,8 @@
+body {
+    font-family: "Courier New";
+    background-color: "white";
+    color: "black";
+}
+.file {
+    border: "1px solid black";
+}
